@@ -1,0 +1,10 @@
+I0211 08:25:14.781647       1 log_file.go:93] Set log file max size to 104857600
+I0211 08:25:14.782619       1 agent.go:105] "Starting Antrea agent" version="v2.0.0-dev-84e23bc7.dirty"
+I0211 08:25:14.782731       1 agent.go:106] "Applicant Github ID is ImMdsahil" Pod Name:="antrea-agent-c5nvk"
+I0211 08:25:14.782761       1 client.go:89] No kubeconfig file was specified. Falling back to in-cluster config
+I0211 08:25:14.783467       1 prometheus.go:189] Initializing prometheus metrics
+I0211 08:25:14.783613       1 ovs_client.go:71] Connecting to OVSDB at address /var/run/openvswitch/db.sock
+I0211 08:25:15.783970       1 ovs_client.go:90] Not connected yet, will try again in 2s
+I0211 08:25:15.784173       1 agent.go:412] Setting up node network
+I0211 08:25:15.784277       1 discoverer.go:82] Starting ServiceCIDRDiscoverer
+I0211 08:25:15.790773       1 agent.go:1023] "Got Interface MTU" MTU=1450
